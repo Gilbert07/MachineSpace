@@ -1,2 +1,0 @@
-# MachineSpace
-Sistema de ventas
