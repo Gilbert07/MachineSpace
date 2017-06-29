@@ -3,5 +3,5 @@
 
 Este proyecto muestra como vender productos deportivos.
 
-Registrar cliente
-Publicar producto
+-Registrar cliente
+-Publicar producto
